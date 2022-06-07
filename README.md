@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I'm [Lakshay!]👋
+I'm Lakshay Yadav, a 23-year old technical enthusiast. Passionate to contribute open-source projects and make cool products.<br>
+## 📫 How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lakshayyadav/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lakshayyadav99) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/lakshay.yadav.56211/)
 
-<!--
-**lakshayyadav99/lakshayyadav99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking for new opportunities.
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Tanu's github stats](https://github-readme-stats.vercel.app/api?username=lakshayyadav99&show_icons=true&theme=dark)
+
+⭐️ From [Lakshay Yadav](https://github.com/lakshayyadav99)
